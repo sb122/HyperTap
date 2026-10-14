@@ -1,1 +1,2 @@
 # HyperTap banned Machine IDs (managed by the Key Manager; lines you add by hand are kept)
+HNSH-XD30-Y2KF-2JVD   # (from keygen)
