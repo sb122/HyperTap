@@ -1,2 +1,1 @@
-# banned keys
-HNSH-XD30-Y2KF-2JVD # refund 
+# HyperTap banned Machine IDs (managed by the Key Manager; lines you add by hand are kept)
