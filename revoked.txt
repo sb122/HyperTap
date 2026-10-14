@@ -1,2 +1,1 @@
 # HyperTap banned Machine IDs (managed by the Key Manager; lines you add by hand are kept)
-CPTS-VZJA-QKM9-KT3Q   # (from keygen)
